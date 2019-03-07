@@ -1,0 +1,14 @@
+E:\Repos\Graphql_POC_v1\GraphQL_POC_v1\bin\Debug\netcoreapp2.2\GraphQL_POC_v1.deps.json
+E:\Repos\Graphql_POC_v1\GraphQL_POC_v1\bin\Debug\netcoreapp2.2\GraphQL_POC_v1.runtimeconfig.json
+E:\Repos\Graphql_POC_v1\GraphQL_POC_v1\bin\Debug\netcoreapp2.2\GraphQL_POC_v1.runtimeconfig.dev.json
+E:\Repos\Graphql_POC_v1\GraphQL_POC_v1\bin\Debug\netcoreapp2.2\GraphQL_POC_v1.dll
+E:\Repos\Graphql_POC_v1\GraphQL_POC_v1\bin\Debug\netcoreapp2.2\GraphQL_POC_v1.pdb
+E:\Repos\Graphql_POC_v1\GraphQL_POC_v1\obj\Debug\netcoreapp2.2\GraphQL_POC_v1.csprojAssemblyReference.cache
+E:\Repos\Graphql_POC_v1\GraphQL_POC_v1\obj\Debug\netcoreapp2.2\GraphQL_POC_v1.csproj.CoreCompileInputs.cache
+E:\Repos\Graphql_POC_v1\GraphQL_POC_v1\obj\Debug\netcoreapp2.2\GraphQL_POC_v1.RazorAssemblyInfo.cache
+E:\Repos\Graphql_POC_v1\GraphQL_POC_v1\obj\Debug\netcoreapp2.2\GraphQL_POC_v1.RazorAssemblyInfo.cs
+E:\Repos\Graphql_POC_v1\GraphQL_POC_v1\obj\Debug\netcoreapp2.2\GraphQL_POC_v1.AssemblyInfoInputs.cache
+E:\Repos\Graphql_POC_v1\GraphQL_POC_v1\obj\Debug\netcoreapp2.2\GraphQL_POC_v1.AssemblyInfo.cs
+E:\Repos\Graphql_POC_v1\GraphQL_POC_v1\obj\Debug\netcoreapp2.2\GraphQL_POC_v1.RazorTargetAssemblyInfo.cache
+E:\Repos\Graphql_POC_v1\GraphQL_POC_v1\obj\Debug\netcoreapp2.2\GraphQL_POC_v1.dll
+E:\Repos\Graphql_POC_v1\GraphQL_POC_v1\obj\Debug\netcoreapp2.2\GraphQL_POC_v1.pdb
